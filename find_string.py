@@ -7,9 +7,9 @@ result3 = user.capitalize() # upper case case only 1st character
 result4 = user.upper() # upper case all letter 
 result5 = user.lower() # lower case all letter 
 result6 = user.isdigit() # find only numbers boolean t or f
-result6 = user.isalpha() #find only character boolean t or f
-result7 = phone_number.count("-") #count "-"
-result8 = phone_number.replace("-", "_")
+result7 = user.isalpha() #find only character boolean t or f
+result8 = phone_number.count("-") #count "-"
+result9 = phone_number.replace("-", "_")
 print(result)
 print(result1)
 print(result2)
@@ -19,3 +19,4 @@ print(result5)
 print(result6)
 print(result7)
 print(result8)
+print(result9)
