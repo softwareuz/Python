@@ -10,7 +10,7 @@ def salom_ber(): #salom_ber bu yerda funksiya ismi
 salom_ber() #funksiyani ekranga chaqarish
 
 # 2-misol
-
+print("Salom")
 def kvadrat_hisoblash(a):
     return a**2
 natija = kvadrat_hisoblash(3)
