@@ -8,8 +8,8 @@ from aiogram.fsm.context import FSMContext
 from aiogram.fsm.storage.memory import MemoryStorage
 
 # Bot tokeningiz
-API_TOKEN = "7524411808:AAH_dwkkUdzZbMCyuXxwSJ0UWpvTEC-J_QA"
-ADMIN_ID = 5789956459  # Admin ID
+API_TOKEN = #Token
+ADMIN_ID =   # Admin ID
 
 # Logging yoqish
 logging.basicConfig(level=logging.INFO)
