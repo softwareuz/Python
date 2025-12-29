@@ -23,3 +23,5 @@ else:
 
 
 # Topshiriq 3 ta raqamdan eng kichigini topuvchi dastur kodini Python dasturlash tilida yozing
+
+#Ahrorjon - axrorback
