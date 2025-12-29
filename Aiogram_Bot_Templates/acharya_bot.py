@@ -2,7 +2,7 @@ import logging
 import asyncio
 from aiogram import Bot, Dispatcher, types, F
 from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton, BotCommand, BotCommandScopeDefault, MenuButtonCommands
-TOKEN =   # Bot tokenini shu yerga
+TOKEN =  '' # Bot tokenini shu yerga
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
