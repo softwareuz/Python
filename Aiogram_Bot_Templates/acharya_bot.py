@@ -7,6 +7,7 @@ TOKEN =  '' # Bot tokenini shu yerga
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
 
+logging.basicConfig(level=logging.INFO)
 user_language = {}
 
 async def set_bot_menu():
@@ -249,4 +250,5 @@ async def main():
     await dp.start_polling(bot)
 
 if __name__ == "__main__":
+    logging.basicConfig(level=logging.INFO)
     asyncio.run(main())
